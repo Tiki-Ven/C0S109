@@ -48,7 +48,7 @@ Figure 4.4: A cloud resource administrator can be with a cloud consumer organiza
 
 Figure 4.5: A cloud resource administrator can be with a cloud provider organization for which it can administer the cloud provider's internally and externally available IT resources.
 
-![Lecture 2 page 10 - Figure 4.5](images/lecture2-10.png)
+![Lecture 2 page 11 - Figure 4.5](images/lecture2-11.png)
 
 ### Page 16 - Cloud Characteristics
 
