@@ -12,9 +12,9 @@ This file matches the handwritten notes to the lecture slides. Page numbers refe
 
 ### Page 14 - The primary technology innovations that influenced cloud computing
 
-- Clustering
-- Grid Computing
-- Virtualization
+- Clustering - A cluster is a group of independent IT resources that are interconnected and work as a single system
+- Grid Computing - A computing grid provides a platform in which computing resources are organized into one or more logical pools.
+- Virtualization - Virtualization represents a technology platform used for the creation of virtual instances of IT resources
 
 ### Page 12 - Common forms of infrastructure-related operating overhead
 
